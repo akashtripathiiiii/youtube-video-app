@@ -1,5 +1,3 @@
-Certainly! Below is a basic template for a README file for your YouTube Video Player React application:
-
 ```markdown
 # YouTube Video Player App
 
@@ -22,7 +20,7 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/youtube-video-app.git
+   git clone https://github.com/akashtripathiiiii/youtube-video-app.git
    ```
 
 2. Navigate to the project folder:
@@ -67,5 +65,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - This project was created using [Create React App](https://reactjs.org/docs/create-a-new-react-app.html).
-
-Feel free to customize this README to include more details about your project, its features, and any additional instructions for users or contributors. If you have specific sections you'd like to add or modify, feel free to do so to make the README more tailored to your application.
